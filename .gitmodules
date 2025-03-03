@@ -1,0 +1,3 @@
+[submodule "liboqs-node"]
+	path = liboqs-node
+	url = https://github.com/TapuCosmo/liboqs-node.git
